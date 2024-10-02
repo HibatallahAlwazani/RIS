@@ -1,5 +1,5 @@
 # Disruptive RIS for Enhancing Key Generation and Secret Transmission in Low-Entropy Environments
-This repository contains the MATLAB codes for all the figures in the paper authored by myself Hibatallah Alwazani and by Dr. Anas Chaaban, linked here "https://arxiv.org/pdf/2409.15303"
+This repository contains the MATLAB codes for all the figures in the paper authored by myself Hibatallah Alwazani and by Dr. Anas Chaaban, linked here "[https://arxiv.org/pdf/2409.15303](https://arxiv.org/abs/2409.15303)"
 
 ## Abstract
 Key generation, a pillar in physical-layer security( PLS), is the process of the exchanging signals from two legitimate users (Alice and Bob) to extract a common key from the random, common channels. The drawback of extracting
