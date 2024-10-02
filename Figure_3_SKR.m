@@ -179,22 +179,22 @@ set(gca,'fontsize',16);
 
 
 
-figure(2)
-hold on
-plot(N_tab,Igabgae,'k-','LineWidth',2)
-ylabel('Secret Leakage in bits per seconds')
-xlabel('N')
-grid on;
-set(gca,'fontsize',16);
+%figure(2)
+%hold on
+%plot(N_tab,Igabgae,'k-','LineWidth',2)
+%ylabel('Secret Leakage in bits per seconds')
+%xlabel('N')
+%grid on;
+%set(gca,'fontsize',16);
 
-figure(3)
-hold on
-plot(rholist,Igabgaerho,'k--','LineWidth',2)
+%figure(3)
+%hold on
+%plot(rholist,Igabgaerho,'k--','LineWidth',2)
 
-ylabel('Secret Leakage in bits per seconds')
-xlabel('Correlation Coefficient between Bob and Eve')
-grid on;
-set(gca,'fontsize',16);
+%ylabel('Secret Leakage in bits per seconds')
+%xlabel('Correlation Coefficient between Bob and Eve')
+%grid on;
+%set(gca,'fontsize',16);
 
 %% Functions
 d=lambda/10;
